@@ -1,7 +1,14 @@
 body {
-    background-color: black;
+    background-color: rgb(34, 31, 31);
 }
 
 .navbar-nav a{
     text-decoration: underline;
+}
+
+.container{
+    color: #f3e5e5;
+    transition: all .5ms;
+    background-color: gray;
+    text-align: center;
 }
