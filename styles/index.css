@@ -12,3 +12,6 @@ body {
     background-color: gray;
     text-align: center;
 }
+img{
+    border-top-right-radius: 50%;
+}
