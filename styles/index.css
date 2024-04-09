@@ -15,3 +15,7 @@ body {
 img{
     border-top-right-radius: 50%;
 }
+
+h1{
+    transition-duration: 8s;
+}
